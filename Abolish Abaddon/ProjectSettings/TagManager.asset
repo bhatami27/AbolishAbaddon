@@ -5,6 +5,10 @@ TagManager:
   serializedVersion: 2
   tags:
   - turn
+  - Enemy
+  - Attack
+  - WandCollider
+  - EndPoint
   layers:
   - Default
   - TransparentFX
@@ -14,8 +18,8 @@ TagManager:
   - UI
   - 
   - 
-  - 
-  - 
+  - Player
+  - EnemyAttack
   - 
   - 
   - 
