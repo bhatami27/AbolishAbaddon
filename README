@@ -1,0 +1,122 @@
+2D-Metroidvania. Player is casted into the underworld. Abandon has taken your soul as well as many others. 
+The only way to get back your soul and save everyone else is to travel around the underworld defeating bosses and 
+increasing your mele to finally be able to fight against Abaddon. 
+Once you finish the full game you get your body back and save all the other trapped souls.
+
+
+
+Main Points
+-----------
+
+Deep Dive 1
+
+Use partial system in game to add depth and movement in the map layout. Use partial system to also add color to player movement, attacks, enemies death and NCP.
+
+Deep Dive 2
+
+Use Interactive audio programming to add sounds to character movement, background music/sound, enemy movement and power ups
+
+
+
+Game Structure
+--------------
+
+Milestone 1:
+
+Draw map level layout and all art for the map in the game
+
+	must-haves: basic map level drawn and put in unity
+
+	wont-haves: extra details to make the background pop
+
+Milestone 2:
+
+Add particle system to the map to add depth
+
+	must-haves: create smoke in between different layers to add depth
+
+	should-haves: add a dark mist that makes it hard to see certain areas
+
+	wont-haves: add particle system to clean up art in map
+
+Create simple enemies that move side to side
+
+	must-have: enemies move side to side
+
+	should-have: enemies are locked where they can move
+
+	wont-have: draw and anime enemies to add character to the game
+
+Milestone 3:
+
+Get movement down for main character
+
+	must-haves: player can move right, left. Can jump by holding button and        attack
+
+	wont-haves: draw and animate main character 
+
+Milestone 4:
+
+Add particle system to main character movement
+
+	must-haves: when player runs he will kick up a very small amount of dirt
+
+	should-haves: when player attacks a flash of particles is activated behind him to add art to player movement
+
+	wont-haves: particles will surround the player when power-up received 
+
+Milestone 5:
+
+Auto for player movement and enemies dying
+
+	must-have: player makes noise when running, landing, attacking and dying. Enemies make noise when killed
+
+Milestone 6:
+
+Auto for background music
+
+	must-have: add background music for the game to be activated once player hits ground 
+
+	wont-have: add new background music so when the player enters new section of map the music changes
+
+Milestone 7:
+
+Start menu
+
+	must-haves: when push start the game begins
+
+End-game menu
+
+	must-haves: allows you to restart game
+
+	wont-haves: sends you back to start menu
+
+Add power-up
+
+	must-haves: player can dash once powered up
+
+	wont-haves: particle system added to make power-up glow, auto when player achieves power-up
+
+Milestone 8:
+
+Work on anything I did not finish
+
+Add details to the game that I think will make it look better
+
+
+
+Resources:
+----------
+
+Brackeys
+https://www.youtube.com/watch?v=dwcT-Dch0bA
+
+Music/Audio
+https://www.epidemicsound.com/?_us=adwords&_usx=11437549827_free%20sounds%20for%20games&utm_source=google&utm_medium=paidsearch&utm_campaign=11437549827&utm_term=free%20sounds%20for%20games&gclid=Cj0KCQjw4cOEBhDMARIsAA3XDRjS2xdczOPeswnVTEcF3F_BQxgDOsRiqgGZNYuR5Lbc2i6B8A45WbYaAv-sEALw_wcB
+https://mixkit.co/free-sound-effects/game/
+https://freesound.org/browse/tags/game-sound/
+
+Sprites
+https://craftpix.net/freebies/
+https://itch.io/game-assets/free
+
